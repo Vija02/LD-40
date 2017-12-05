@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Popup
+  - Embeded
   layers:
   - Default
   - TransparentFX
@@ -16,10 +18,10 @@ TagManager:
   - 
   - 
   - 
+  - Popup
   - 
   - 
-  - 
-  - 
+  - Embeded
   - 
   - 
   - 
@@ -40,4 +42,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Popup
+    uniqueID: 733866111
+    locked: 0
+  - name: Embeded
+    uniqueID: 4277165987
     locked: 0
